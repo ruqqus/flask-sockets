@@ -10,13 +10,13 @@ from setuptools import setup
 
 
 setup(
-    name='Flask-Sockets',
-    version='0.2.1.1',
-    url='https://github.com/kennethreitz/flask-sockets',
+    name='Py3-Flask-Sockets',
+    version='0.2.1.2',
+    url='https://github.com/ruqqus/flask-sockets',
     license='See License',
-    author='Kenneth Reitz',
-    author_email='_@kennethreitz.com',
-    description='Elegant WebSockets for your Flask apps.',
+    author='Ruqqus LLC',
+    author_email='info@ruqqus.com',
+    description='Elegant WebSockets for your Flask apps, revised for Python 3.',
     long_description=__doc__,
     py_modules=['flask_sockets'],
     zip_safe=False,
@@ -30,7 +30,7 @@ setup(
     classifiers=[
         'Environment :: Web Environment',
         'Intended Audience :: Developers',
-        'License :: OSI Approved :: BSD License',
+        'License :: OSI Approved :: MIT License',
         'Operating System :: OS Independent',
         'Programming Language :: Python',
         'Topic :: Internet :: WWW/HTTP :: Dynamic Content',
