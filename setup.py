@@ -18,7 +18,7 @@ setup(
     author_email='info@ruqqus.com',
     description='Elegant WebSockets for your Flask apps, revised for Python 3.',
     long_description=__doc__,
-    py_modules=['flask_sockets'],
+    py_modules=['py3_flask_sockets'],
     zip_safe=False,
     include_package_data=True,
     platforms='any',
