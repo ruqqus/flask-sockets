@@ -10,7 +10,7 @@ from setuptools import setup
 
 
 setup(
-    name='Py3-Flask-Sockets',
+    name='py3socket',
     version='0.2.1.3',
     url='https://github.com/ruqqus/flask-sockets',
     license='See License',
@@ -18,7 +18,7 @@ setup(
     author_email='info@ruqqus.com',
     description='Elegant WebSockets for your Flask apps, revised for Python 3.',
     long_description=__doc__,
-    py_modules=['py3_flask_sockets'],
+    py_modules=['flask_sockets'],
     zip_safe=False,
     include_package_data=True,
     platforms='any',
