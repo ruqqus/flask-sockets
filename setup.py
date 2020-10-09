@@ -11,7 +11,7 @@ from setuptools import setup
 
 setup(
     name='Py3-Flask-Sockets',
-    version='0.2.1.2',
+    version='0.2.1.3',
     url='https://github.com/ruqqus/flask-sockets',
     license='See License',
     author='Ruqqus LLC',
